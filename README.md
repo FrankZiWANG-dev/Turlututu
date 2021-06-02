@@ -8,6 +8,8 @@ Using Ubuntu on the Windows Terminal, the Notepad program, as well as the web br
 
 ### Roadmap
 I first created the repository, added an html branch to lay out the structure and a css branch to work on the appearance (with corrections to the html code added).
+I used a color picker to match colors, but the police detection tools did not work. Appearance might not match 100%, element size may vary a little.
+I did not add the text boxes either, as I lacked some time to do so.
 
 ### Author
 "I maked this" alone, but with the guidance of my Becode Coach and fellow students.
