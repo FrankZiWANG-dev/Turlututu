@@ -7,7 +7,7 @@ As part of my development training, I was asked to create a website reproducing 
 Using Ubuntu on the Windows Terminal, the Notepad program, as well as the web browser, I created the html and css files and code necessary. I then uploaded everything onto my Github and created a Github page. You shouldn't need anything special to read the page.
 
 ### Roadmap
-I first created the repository, added an html branch to lay out the structure and a css branch to work on the appearance (with corrections to the html code added).
+I first created the repository, added an html branch to lay out the structure and a css branch to work on the appearance (with corrections and styling to individual elements in the html code).
 I used a color picker to match colors, but the police detection tools did not work. Appearance might not match 100%, element size may vary a little.
 I did not add the text boxes either, as I lacked some time to do so.
 
